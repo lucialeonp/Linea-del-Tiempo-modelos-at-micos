@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026060912133632HEZ9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260609121336ECN7JL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Linea del Tiempo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Modelos atómicos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lucía León Prieto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780995492306</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780918297402-l1icw3n1y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780918297402-l1icw3n1y</odePageId>
+      <odeBlockId>block-1780919090571-rbafci8uj</odeBlockId>
+      <blockName>Comenzamos nuestro proyecto</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780918297402-l1icw3n1y</odePageId>
+          <odeBlockId>block-1780919090571-rbafci8uj</odeBlockId>
+          <odeIdeviceId>idevice-1780919090569-almkynlrx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt; color: #3598db;">Centro de interés o temática </span></p>
+<p>Este proyecto se enmarca en la <span style="color: #3598db;">UD 1 : Estructura Atómica</span> de la materia Física y Química. Esta unidad didáctica trata del estudio del átomo y las partículas que lo forman, pero para entender cómo es el modelo atómico actual es importante hacer uso de la historia de la ciencia ya que nos ayuda a entender las decisiones que tomaros algunos científicos o científicas para elaborar las distintas leyes y teorías con las que hoy trabajamos y explicamos los distintos fenómenos que se producen. </p>
+<p><span style="font-size: 18pt; color: #3598db;">Nivel al que va dirigido</span></p>
+<p>El nivel al que va dirigido es al curso de 3º ESO.</p>
+<p><span style="font-size: 18pt; color: #3598db;">Temporalización aproximada </span></p>
+<p>La materia de física y química en 3º ESO se da a razón de 3 horas semanales, para este proyecto dedicaremos 6 sesiones, dos para la búsqueda guiada de información y para realizar la estructuración del proyecto en forma de boceto, dos para la realización de la línea del tiempo en formato digital y las dos últimas sesiones las dedicaremos al visionado de los proyectos para su evaluación. </p>
+<p><span style="font-size: 18pt; color: #3598db;">Idioma</span> </p>
+<p>Se desarrollará en castellano. </p>
+<p><span style="color: #3598db; font-size: 18pt;">Descripción general de lo que se pretende que el alumnado aprenda o trabaje </span></p>
+<p>Los saberes básicos que se trabajan en este proyecto y que se pretende que aprendan son los siguientes: </p>
+<p>FYQ.3.A.2. Trabajo experimental y proyectos de investigación: estrategias en la resolución de problemas y en el desarrollo de las investigaciones mediante la indagación, la deducción, la búsqueda de evidencias y el razonamiento lógico-matemático, haciendo inferencias válidas de las observaciones y obteniendo conclusiones. </p>
+<p>FYQ.3.A.3. Diversos entornos y recursos de aprendizaje científico, como el laboratorio o los entornos virtuales: materiales, sustancias y herramientas tecnológicas, atendiendo a las normas de uso de cada espacio para asegurar la conservación de la salud propia y comunitaria, la seguridad en redes y el respeto hacia el medioambiente. Identificación e <br />interpretación del etiquetado en productos químicos. Reciclaje y eliminación de residuos en el laboratorio. </p>
+<p>FYQ.3.A.6. Valoración de la cultura científica y del papel de científicos y científicas en los principales hitos históricos y actuales de la física y la química para el avance y la mejora de la sociedad. </p>
+<p>FYQ.3.B.1. Aplicación de los conocimientos sobre la estructura atómica de la materia para entender y explicar la formación de estructuras más complejas, de iones, la existencia de isótopos y sus propiedades, el desarrollo histórico del modelo atómico y la ordenación y clasificación de los elementos en la Tabla Periódica. </p>
+<p>Y los criterios de evaluación que serán evaluados: </p>
+<p>1.1. Identificar, comprender y explicar los fenómenos fisicoquímicos cotidianos más relevantes, a partir de los principios, teorías y leyes científicas adecuadas, expresándolos, de manera argumentada, utilizando diversidad de soportes y medios de comunicación. </p>
+<p>1.2. Resolver los problemas fisicoquímicos planteados utilizando las leyes y teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando adecuadamente los resultados. </p>
+<p>2.1. Emplear las metodologías propias de la ciencia para identificar y describir fenómenos a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, la deducción, el trabajo experimental y el razonamiento lógico- matemático, diferenciándolas de aquellas pseudocientíficas que no admiten comprobación experimental. </p>
+<p>2.2. Seleccionar de acuerdo con la naturaleza de las cuestiones que se traten, la mejor manera de comprobar o refutar las hipótesis formuladas, para diseñar estrategias de indagación y búsqueda de evidencias que permitan obtener conclusiones y respuestas ajustadas a la naturaleza de la pregunta formulada. </p>
+<p>2.3. Aplicar las leyes y teorías científicas conocidas para formular cuestiones e hipótesis, de manera informada y coherente con el conocimiento científico existente y diseñar los procedimientos experimentales o deductivos necesarios para resolverlas o comprobarlas. </p>
+<p>3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema. </p>
+<p>3.2. Utilizar adecuadamente las reglas básicas de la física y la química, incluyendo el uso de unidades de medida, las herramientas matemáticas y las reglas de nomenclatura, consiguiendo comunicación efectiva con toda la comunidad científica. </p>
+<p>3.3. Poner en práctica las normas de uso de los espacios específicos de la ciencia, como el laboratorio de física y química, como medio de asegurar la salud propia y colectiva, la conservación sostenible del medioambiente y el cuidado de las instalaciones. </p>
+<p>4.1. Utilizar recursos variados, tradicionales y digitales, mejorando el aprendizaje autónomo y para mejorar la interacción con otros miembros de la comunidad educativa, <br />con respeto hacia docentes y estudiantes y analizando críticamente las aportaciones de cada participante. </p>
+<p>4.2. Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales, en la consulta de información y la creación de contenidos, seleccionando con criterio las fuentes más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo. </p>
+<p>5.1.Establecer interacciones constructivas y coeducativas, emprendiendo actividades de cooperación y del uso de las estrategias propias del trabajo colaborativo, como forma de construir un medio de trabajo eficiente en la ciencia. </p>
+<p>6.1. Reconocer y valorar, a través del análisis histórico de los avances científicos logrados por hombres y mujeres de ciencia, que la ciencia es un proceso en permanente construcción, así como reconocer las repercusiones mutuas de la ciencia actual con la tecnología, la sociedad y el medioambiente. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780919090569-almkynlrx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt; color: #3598db;\">Centro de interés o temática </span></p>\n<p>Este proyecto se enmarca en la <span style=\"color: #3598db;\">UD 1 : Estructura Atómica</span> de la materia Física y Química. Esta unidad didáctica trata del estudio del átomo y las partículas que lo forman, pero para entender cómo es el modelo atómico actual es importante hacer uso de la historia de la ciencia ya que nos ayuda a entender las decisiones que tomaros algunos científicos o científicas para elaborar las distintas leyes y teorías con las que hoy trabajamos y explicamos los distintos fenómenos que se producen. </p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Nivel al que va dirigido</span></p>\n<p>El nivel al que va dirigido es al curso de 3º ESO.</p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Temporalización aproximada </span></p>\n<p>La materia de física y química en 3º ESO se da a razón de 3 horas semanales, para este proyecto dedicaremos 6 sesiones, dos para la búsqueda guiada de información y para realizar la estructuración del proyecto en forma de boceto, dos para la realización de la línea del tiempo en formato digital y las dos últimas sesiones las dedicaremos al visionado de los proyectos para su evaluación. </p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Idioma</span> </p>\n<p>Se desarrollará en castellano. </p>\n<p><span style=\"color: #3598db; font-size: 18pt;\">Descripción general de lo que se pretende que el alumnado aprenda o trabaje </span></p>\n<p>Los saberes básicos que se trabajan en este proyecto y que se pretende que aprendan son los siguientes: </p>\n<p>FYQ.3.A.2. Trabajo experimental y proyectos de investigación: estrategias en la resolución de problemas y en el desarrollo de las investigaciones mediante la indagación, la deducción, la búsqueda de evidencias y el razonamiento lógico-matemático, haciendo inferencias válidas de las observaciones y obteniendo conclusiones. </p>\n<p>FYQ.3.A.3. Diversos entornos y recursos de aprendizaje científico, como el laboratorio o los entornos virtuales: materiales, sustancias y herramientas tecnológicas, atendiendo a las normas de uso de cada espacio para asegurar la conservación de la salud propia y comunitaria, la seguridad en redes y el respeto hacia el medioambiente. Identificación e <br />interpretación del etiquetado en productos químicos. Reciclaje y eliminación de residuos en el laboratorio. </p>\n<p>FYQ.3.A.6. Valoración de la cultura científica y del papel de científicos y científicas en los principales hitos históricos y actuales de la física y la química para el avance y la mejora de la sociedad. </p>\n<p>FYQ.3.B.1. Aplicación de los conocimientos sobre la estructura atómica de la materia para entender y explicar la formación de estructuras más complejas, de iones, la existencia de isótopos y sus propiedades, el desarrollo histórico del modelo atómico y la ordenación y clasificación de los elementos en la Tabla Periódica. </p>\n<p>Y los criterios de evaluación que serán evaluados: </p>\n<p>1.1. Identificar, comprender y explicar los fenómenos fisicoquímicos cotidianos más relevantes, a partir de los principios, teorías y leyes científicas adecuadas, expresándolos, de manera argumentada, utilizando diversidad de soportes y medios de comunicación. </p>\n<p>1.2. Resolver los problemas fisicoquímicos planteados utilizando las leyes y teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando adecuadamente los resultados. </p>\n<p>2.1. Emplear las metodologías propias de la ciencia para identificar y describir fenómenos a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, la deducción, el trabajo experimental y el razonamiento lógico- matemático, diferenciándolas de aquellas pseudocientíficas que no admiten comprobación experimental. </p>\n<p>2.2. Seleccionar de acuerdo con la naturaleza de las cuestiones que se traten, la mejor manera de comprobar o refutar las hipótesis formuladas, para diseñar estrategias de indagación y búsqueda de evidencias que permitan obtener conclusiones y respuestas ajustadas a la naturaleza de la pregunta formulada. </p>\n<p>2.3. Aplicar las leyes y teorías científicas conocidas para formular cuestiones e hipótesis, de manera informada y coherente con el conocimiento científico existente y diseñar los procedimientos experimentales o deductivos necesarios para resolverlas o comprobarlas. </p>\n<p>3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema. </p>\n<p>3.2. Utilizar adecuadamente las reglas básicas de la física y la química, incluyendo el uso de unidades de medida, las herramientas matemáticas y las reglas de nomenclatura, consiguiendo comunicación efectiva con toda la comunidad científica. </p>\n<p>3.3. Poner en práctica las normas de uso de los espacios específicos de la ciencia, como el laboratorio de física y química, como medio de asegurar la salud propia y colectiva, la conservación sostenible del medioambiente y el cuidado de las instalaciones. </p>\n<p>4.1. Utilizar recursos variados, tradicionales y digitales, mejorando el aprendizaje autónomo y para mejorar la interacción con otros miembros de la comunidad educativa, <br />con respeto hacia docentes y estudiantes y analizando críticamente las aportaciones de cada participante. </p>\n<p>4.2. Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales, en la consulta de información y la creación de contenidos, seleccionando con criterio las fuentes más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo. </p>\n<p>5.1.Establecer interacciones constructivas y coeducativas, emprendiendo actividades de cooperación y del uso de las estrategias propias del trabajo colaborativo, como forma de construir un medio de trabajo eficiente en la ciencia. </p>\n<p>6.1. Reconocer y valorar, a través del análisis histórico de los avances científicos logrados por hombres y mujeres de ciencia, que la ciencia es un proceso en permanente construcción, así como reconocer las repercusiones mutuas de la ciencia actual con la tecnología, la sociedad y el medioambiente. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780921489243-wn5ovxnaj</odePageId>
+  <odeParentPageId>page-1780918297402-l1icw3n1y</odeParentPageId>
+  <pageName>Justificación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780921489243-wn5ovxnaj</odePageId>
+      <odeBlockId>block-1780921506405-r8aak7ijf</odeBlockId>
+      <blockName>¿Por qué este proyecto?</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780921489243-wn5ovxnaj</odePageId>
+          <odeBlockId>block-1780921506405-r8aak7ijf</odeBlockId>
+          <odeIdeviceId>idevice-1780921506403-ol9pgctxp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La asignatura de Física y Química, muestra un carácter experimental predominante, pero es su faceta de construcción de modelos para explicar los fenómenos que nos rodean, acompañada de la importancia de la historia de la química como ciencia, lo que favorece que el alumno se acerque al razonamiento científico, consiguiendo así un aprendizaje significativo de la materia. </p>
+<p>Las materias de carácter científico, deben contribuir a que el alumnado adquiera las destrezas propias de la actividad científica y tecnológica y mostrar sus aplicaciones e implicaciones sociales cada vez mayores (medicina, tecnología de materiales, industria farmacéutica y alimentaria, etc.). </p>
+<p>Por este motivo, el descubrimiento por indagación de los modelos atómicos, el problema que descubrieron los científicos para invalidar el modelo anterior y tener que mejorarlo para crear otro que explique el comportamiento del átomo, es una oportunidad muy valiosa para que los alumnos y alumnas aprendan de forma constructiva. Además, el uso de las herramientas digitales les ayuda a desarrollar su competencia digital, a tener criterio en la búsqueda de información y a desarrollar su creatividad a la hora de tener libre lección en el formato digital a elegir a la hora de realizar esa linea del tiempo. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780921506403-ol9pgctxp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La asignatura de Física y Química, muestra un carácter experimental predominante, pero es su faceta de construcción de modelos para explicar los fenómenos que nos rodean, acompañada de la importancia de la historia de la química como ciencia, lo que favorece que el alumno se acerque al razonamiento científico, consiguiendo así un aprendizaje significativo de la materia. </p>\n<p>Las materias de carácter científico, deben contribuir a que el alumnado adquiera las destrezas propias de la actividad científica y tecnológica y mostrar sus aplicaciones e implicaciones sociales cada vez mayores (medicina, tecnología de materiales, industria farmacéutica y alimentaria, etc.). </p>\n<p>Por este motivo, el descubrimiento por indagación de los modelos atómicos, el problema que descubrieron los científicos para invalidar el modelo anterior y tener que mejorarlo para crear otro que explique el comportamiento del átomo, es una oportunidad muy valiosa para que los alumnos y alumnas aprendan de forma constructiva. Además, el uso de las herramientas digitales les ayuda a desarrollar su competencia digital, a tener criterio en la búsqueda de información y a desarrollar su creatividad a la hora de tener libre lección en el formato digital a elegir a la hora de realizar esa linea del tiempo. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780922130792-sbwuxet5t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Antes de comenzar</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de comenzar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780922130792-sbwuxet5t</odePageId>
+      <odeBlockId>block-1780987490317-60ycck78q</odeBlockId>
+      <blockName>¿Conoces las licencias y la Seguridad Digital?</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780922130792-sbwuxet5t</odePageId>
+          <odeBlockId>block-1780987490317-60ycck78q</odeBlockId>
+          <odeIdeviceId>idevice-1780987490316-dk4taek2w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/GuiÌa de Licencias y Seguridad Digital.png" width="600" height="1499" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780987490316-dk4taek2w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/GuiÌa de Licencias y Seguridad Digital.png\" width=\"600\" height=\"1499\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780988110277-joapxl1h5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780988110277-joapxl1h5</odePageId>
+      <odeBlockId>block-1780988246031-zvxeeaoer</odeBlockId>
+      <blockName>¿Qué actividades se llevarán a cabo?</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780988110277-joapxl1h5</odePageId>
+          <odeBlockId>block-1780988246031-zvxeeaoer</odeBlockId>
+          <odeIdeviceId>idevice-1780988246029-mt8y237oe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>ACTIVIDAD 1: BÚSQUEDA DE INFORMACIÓN GUIADA.</p>
+<p>ACTIVIDAD 2: ESTRUCTURAMOS LA INFORMACIÓN.</p>
+<p>ACTIVIDAD 3: CREAMOS UNA LÍNEA DEL TIEMPO EN FORMATO DIGITAL.</p>
+<p>ACTIVIDAD 4: VISIONADO DE LOS PRODUCTOS FINALES Y EVALUACIÓN DE LOS MISMOS.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780988246029-mt8y237oe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>ACTIVIDAD 1: BÚSQUEDA DE INFORMACIÓN GUIADA.</p>\n<p>ACTIVIDAD 2: ESTRUCTURAMOS LA INFORMACIÓN.</p>\n<p>ACTIVIDAD 3: CREAMOS UNA LÍNEA DEL TIEMPO EN FORMATO DIGITAL.</p>\n<p>ACTIVIDAD 4: VISIONADO DE LOS PRODUCTOS FINALES Y EVALUACIÓN DE LOS MISMOS.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780988374093-eicwh3xtw</odePageId>
+  <odeParentPageId>page-1780988110277-joapxl1h5</odeParentPageId>
+  <pageName>Actividad 1 : BÚSQUEDA DE INFORMACIÓN GUIADA.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1 : BÚSQUEDA DE INFORMACIÓN GUIADA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 1 : BÚSQUEDA DE INFORMACIÓN GUIADA.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780988374093-eicwh3xtw</odePageId>
+      <odeBlockId>block-1780988657155-mcmzaikqt</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780988374093-eicwh3xtw</odePageId>
+          <odeBlockId>block-1780988657155-mcmzaikqt</odeBlockId>
+          <odeIdeviceId>idevice-1780988657153-xiud7psrs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt; color: #3598db;">Descripcición</span></p>
+<p>Dedicaremos la sesión a buscar información sobre los distintos modelos atómicos que han ido surgiendo a lo largo de la historia, los motivos por los que surgió la necesidad de ir mejorándolos y la importancia del uso del razonamiento y el método científico a la hora de establecer nuevas leyes, modelos y teorías.</p>
+<p><span style="font-size: 18pt; color: #3598db;">Criterios de evaluación asociados</span></p>
+<p>1.1,1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2 </p>
+<p><span style="font-size: 18pt; color: #3598db;">Agrupamiento</span></p>
+<p>Grupos de 4 personas</p>
+<p><span style="font-size: 18pt; color: #3598db;">Herramientas</span></p>
+<p>Trabajararéis con un navegador y un buscador web para la búsqueda de información. Ésta se recogerá con Google documentos de forma colaborativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780988657153-xiud7psrs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt; color: #3598db;\">Descripcición</span></p>\n<p>Dedicaremos la sesión a buscar información sobre los distintos modelos atómicos que han ido surgiendo a lo largo de la historia, los motivos por los que surgió la necesidad de ir mejorándolos y la importancia del uso del razonamiento y el método científico a la hora de establecer nuevas leyes, modelos y teorías.</p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Criterios de evaluación asociados</span></p>\n<p>1.1,1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2 </p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Agrupamiento</span></p>\n<p>Grupos de 4 personas</p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Herramientas</span></p>\n<p>Trabajararéis con un navegador y un buscador web para la búsqueda de información. Ésta se recogerá con Google documentos de forma colaborativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780988426351-5ve41mhfc</odePageId>
+  <odeParentPageId>page-1780988110277-joapxl1h5</odeParentPageId>
+  <pageName>Actividad 2 : ESTRUCTURAMOS LA INFORMACIÓN.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2 : ESTRUCTURAMOS LA INFORMACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 2 : ESTRUCTURAMOS LA INFORMACIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780988426351-5ve41mhfc</odePageId>
+      <odeBlockId>block-1780988910104-d53c9fqp4</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780988426351-5ve41mhfc</odePageId>
+          <odeBlockId>block-1780988910104-d53c9fqp4</odeBlockId>
+          <odeIdeviceId>idevice-1780988910102-fvmydma7x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt; color: #3598db;">Descripción</span></p>
+<p>Dedicaremos la sesión a estructurar la información recopilada en tipo de modelo, fecha, inconvenientes, ventajas y científicos implicados.</p>
+<p><span style="color: #3598db; font-size: 18pt;">Criterios de evaluación asociados</span></p>
+<p>1.1, 1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 5.1, 6.1</p>
+<p><span style="font-size: 18pt; color: #3598db;">Agrupamientos</span></p>
+<p>Grupos de 4 personas. Trabajo colaborativo.<br /></p>
+<p><span style="font-size: 18pt; color: #3598db;">Herramientas</span></p>
+<p>Padlet.</p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780988910102-fvmydma7x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt; color: #3598db;\">Descripción</span></p>\n<p>Dedicaremos la sesión a estructurar la información recopilada en tipo de modelo, fecha, inconvenientes, ventajas y científicos implicados.</p>\n<p><span style=\"color: #3598db; font-size: 18pt;\">Criterios de evaluación asociados</span></p>\n<p>1.1, 1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 5.1, 6.1</p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Agrupamientos</span></p>\n<p>Grupos de 4 personas. Trabajo colaborativo.<br /></p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Herramientas</span></p>\n<p>Padlet.</p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780988455595-yk0yocfxf</odePageId>
+  <odeParentPageId>page-1780988110277-joapxl1h5</odeParentPageId>
+  <pageName>Actividad 3 : CREAMOS UNA LÍNEA DEL TIEMPO EN FORMATO DIGITAL.</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3 : CREAMOS UNA LÍNEA DEL TIEMPO EN FORMATO DIGITAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 3 : CREAMOS UNA LÍNEA DEL TIEMPO EN FORMATO DIGITAL.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780988455595-yk0yocfxf</odePageId>
+      <odeBlockId>block-1780989192714-qj5c2sht6</odeBlockId>
+      <blockName>Actividad 3</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780988455595-yk0yocfxf</odePageId>
+          <odeBlockId>block-1780989192714-qj5c2sht6</odeBlockId>
+          <odeIdeviceId>idevice-1780989192712-hego13obt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt; color: #3598db;">Descripción</span></p>
+<p>Durante esta actividad, los diferentes grupos crearán una línea del tiempo con los distintos modelos atómicos. Este producto será en el formato digital que seleccionen. Además, deben replicar en formato físico el modelo para que pueda manipular y entender mejor.</p>
+<p><span style="font-size: 18pt; color: #3598db;">Criterios de evaluación asociados</span></p>
+<p> 1.1, 2.3, 4.2, 5.2, 6.2<br /></p>
+<p><span style="color: #3598db; font-size: 18pt;">Agrupamiento</span></p>
+<p>Grupos de 4 personas.<br /></p>
+<p><span style="font-size: 18pt; color: #3598db;">Herramientas</span></p>
+<p>Genially, eMovie, Canva, etc…<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780989192712-hego13obt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt; color: #3598db;\">Descripción</span></p>\n<p>Durante esta actividad, los diferentes grupos crearán una línea del tiempo con los distintos modelos atómicos. Este producto será en el formato digital que seleccionen. Además, deben replicar en formato físico el modelo para que pueda manipular y entender mejor.</p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Criterios de evaluación asociados</span></p>\n<p> 1.1, 2.3, 4.2, 5.2, 6.2<br /></p>\n<p><span style=\"color: #3598db; font-size: 18pt;\">Agrupamiento</span></p>\n<p>Grupos de 4 personas.<br /></p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Herramientas</span></p>\n<p>Genially, eMovie, Canva, etc…<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780988493548-gksclc7qm</odePageId>
+  <odeParentPageId>page-1780988110277-joapxl1h5</odeParentPageId>
+  <pageName>Actividad 4 : VISIONADO DE LOS PRODUCTOS FINALES Y EVALUACIÓN DE LOS MISMOS.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4 : VISIONADO DE LOS PRODUCTOS FINALES Y EVALUACIÓN DE LOS MISMOS.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 4 : VISIONADO DE LOS PRODUCTOS FINALES Y EVALUACIÓN DE LOS MISMOS.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780988493548-gksclc7qm</odePageId>
+      <odeBlockId>block-1780989467223-vwhladlf3</odeBlockId>
+      <blockName>Actividad 4</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780988493548-gksclc7qm</odePageId>
+          <odeBlockId>block-1780989467223-vwhladlf3</odeBlockId>
+          <odeIdeviceId>idevice-1780989467221-nvaq7xm1z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt; color: #3598db;">Descripción</span></p>
+<p>Se realizará el visionado de las diferentes líneas del tiempo de cada grupo y se manipularán los modelos atómicos creados para poder evaluarlos mediante CoRubrics. </p>
+<p><span style="font-size: 18pt; color: #3598db;">Criterios de evaluación asociados</span></p>
+<p>1.1,1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2 </p>
+<p><span style="font-size: 18pt; color: #3598db;">Agrupamiento</span></p>
+<p>Grupos de 4 personas.<br /></p>
+<p><span style="font-size: 18pt; color: #3598db;">Herramientas</span></p>
+<p>CoRubrics.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780989467221-nvaq7xm1z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt; color: #3598db;\">Descripción</span></p>\n<p>Se realizará el visionado de las diferentes líneas del tiempo de cada grupo y se manipularán los modelos atómicos creados para poder evaluarlos mediante CoRubrics. </p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Criterios de evaluación asociados</span></p>\n<p>1.1,1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2 </p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Agrupamiento</span></p>\n<p>Grupos de 4 personas.<br /></p>\n<p><span style=\"font-size: 18pt; color: #3598db;\">Herramientas</span></p>\n<p>CoRubrics.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780988064417-hgha3t2zj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización del trabajo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización del trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Organización del trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780988064417-hgha3t2zj</odePageId>
+      <odeBlockId>block-1780989956947-3tu1dk35v</odeBlockId>
+      <blockName>Secuencia de actividades</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780988064417-hgha3t2zj</odePageId>
+          <odeBlockId>block-1780989956947-3tu1dk35v</odeBlockId>
+          <odeIdeviceId>idevice-1780989956943-w7uobg0t6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Mapa MENTAL.png" width="1440" height="809" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780989956943-w7uobg0t6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Mapa MENTAL.png\" width=\"1440\" height=\"809\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780990196535-cr070po0e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780990196535-cr070po0e</odePageId>
+      <odeBlockId>block-1780990381464-mfam6qqef</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780990196535-cr070po0e</odePageId>
+          <odeBlockId>block-1780990381464-mfam6qqef</odeBlockId>
+          <odeIdeviceId>idevice-1780990381462-g1ywt1g59</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><a href="https://docs.google.com/document/d/1AZrB580Fa5x3sFu_T4blz9FDPgFOvGJHAgLu-JA8WtY/edit?usp=sharing" title="">Evaluación</a></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780990381462-g1ywt1g59","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><a href=\"https://docs.google.com/document/d/1AZrB580Fa5x3sFu_T4blz9FDPgFOvGJHAgLu-JA8WtY/edit?usp=sharing\" title=\"\">Evaluación</a></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780995760838-6r3ad9qs5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guia didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guia didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780995760838-6r3ad9qs5</odePageId>
+      <odeBlockId>block-1780995775991-f5y63fhk7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780995760838-6r3ad9qs5</odePageId>
+          <odeBlockId>block-1780995775991-f5y63fhk7</odeBlockId>
+          <odeIdeviceId>idevice-1780995775989-aq8f81l88</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><a href="https://docs.google.com/document/d/1hSs-gcPMrr5u5Gphu7nnUXmsnZF7MCJuEx9B-sc7E-I/edit?usp=sharing" title="">Guía didáctica</a></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780995775989-aq8f81l88","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><a href=\"https://docs.google.com/document/d/1hSs-gcPMrr5u5Gphu7nnUXmsnZF7MCJuEx9B-sc7E-I/edit?usp=sharing\" title=\"\">Guía didáctica</a></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780990759733-g26rg79bk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780990759733-g26rg79bk</odePageId>
+      <odeBlockId>block-1780991100804-yys3skg6d</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780990759733-g26rg79bk</odePageId>
+          <odeBlockId>block-1780991100804-yys3skg6d</odeBlockId>
+          <odeIdeviceId>idevice-1780991100803-cx99cv07j</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Linea del Tiempo</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lucía León Prieto</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
